@@ -16,6 +16,7 @@ public class DemoMain {
 			}
 		}.start();
 		
+		asdasdasd 
 		new Thread(){
 			public void run(){
 				AA.getInstance();
